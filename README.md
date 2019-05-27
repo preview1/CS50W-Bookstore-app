@@ -8,3 +8,5 @@ get a goodreads.com rating. A User can rate a book and leave a review.
 
 The web is responsive, with loading animations, star rating.
 App also lets to use it's API from outside of the app.
+
+PREVIEW VIDEO: https://youtu.be/Rz4M7C6krFo
